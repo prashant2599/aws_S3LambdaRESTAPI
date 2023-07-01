@@ -11,3 +11,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service offering 
 
 # API GATEWAY
 API Gateway:- Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. APIs act as the “front door” for applications to access data, business logic, or functionality from your backend services. Using API Gateway, you can create RESTful APIs and WebSocket APIs that enable real-time two-way communication applications. API Gateway supports containerized and serverless workloads, as well as web applications.
+
+
+# medium Link
+https://medium.com/@singhprashant2599/integrating-lambda-with-services-like-s3-and-api-gateway-and-retrieving-the-lambda-function-event-7278c4e8bbcd
